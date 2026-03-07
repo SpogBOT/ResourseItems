@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "resourceitems",
+  "version": "0.6.2",
+  "name": "Resource Items",
+  "description": "Allows player to see all available renaming for items through the anvil!",
+  "authors": [ "SpogBOT" ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/resourceitems/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.spogbot.resourceitems.client.ResourseitemsDataGenerator"
+    ],
+    "client": [
+      "net.spogbot.resourceitems.client.ResourseitemsClient"
+    ],
+    "main": [
+      "net.spogbot.resourceitems.Resourseitems"
+    ]
+  },
+  "mixins": [
+    "resourceitems.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  }
+}

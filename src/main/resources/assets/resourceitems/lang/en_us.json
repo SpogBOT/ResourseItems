@@ -1,0 +1,18 @@
+{
+  "screen.resourceitems.language_choice.title": "Select a translation key",
+  "screen.resourceitems.item_choice.title": "Select an item",
+  "gui.back": "Back",
+  "gui.title.items": "Items via /items",
+  "gui.title.renames": "Renamed items",
+  "gui.desc.see": "View available renaming",
+  "gui.resourceitems.name_selection.search": "Search",
+  "gui.resourceitems.name_selection.search.placeholder": "Search by name...",
+  "gui.resourceitems.alternative_names": "Alternative names",
+  "gui.resourceitems.from_pack": "From resource pack",
+  "gui.resourceitems.compatible_with": "Can be used on:",
+  "gui.resourceitems.unknown_pack": "Unknown pack",
+  "gui.choose.hand": "Main hand",
+  "gui.choose.offhand": "Second hand",
+  "gui.choose.head": "Head",
+  "gui.resourceitems.all_packs": "All"
+}

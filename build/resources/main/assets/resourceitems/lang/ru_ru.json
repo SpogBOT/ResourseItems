@@ -1,0 +1,18 @@
+{
+  "screen.resourceitems.language_choice.title": "Выберите ключ перевода",
+  "screen.resourceitems.item_choice.title": "Выберите предмет",
+  "gui.back": "Назад",
+  "gui.title.items": "Предметы через /items",
+  "gui.title.renames": "Переименнованные предметы",
+  "gui.desc.see": "Посмотреть доступные переименования",
+  "gui.resourceitems.name_selection.search": "Поиск",
+  "gui.resourceitems.name_selection.search.placeholder": "Поиск по имени...",
+  "gui.resourceitems.alternative_names": "Альтернативные имена",
+  "gui.resourceitems.from_pack": "Из ресурспака",
+  "gui.resourceitems.compatible_with": "Можно использовать на:",
+  "gui.resourceitems.unknown_pack": "Неизвестный пак",
+  "gui.choose.hand": "Главная рука",
+  "gui.choose.offhand": "Вторая Рука",
+  "gui.choose.head": "Голова",
+  "gui.resourceitems.all_packs": "Все"
+}
